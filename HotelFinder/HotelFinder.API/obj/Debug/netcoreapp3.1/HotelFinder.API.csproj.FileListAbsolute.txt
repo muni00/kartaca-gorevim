@@ -1,0 +1,5 @@
+C:\Users\nbaha\OneDrive\Masaüstü\kartaca\HotelFinder\HotelFinder.API\obj\Debug\netcoreapp3.1\HotelFinder.API.csprojAssemblyReference.cache
+C:\Users\nbaha\OneDrive\Masaüstü\kartaca\HotelFinder\HotelFinder.API\obj\Debug\netcoreapp3.1\HotelFinder.API.AssemblyInfoInputs.cache
+C:\Users\nbaha\OneDrive\Masaüstü\kartaca\HotelFinder\HotelFinder.API\obj\Debug\netcoreapp3.1\HotelFinder.API.AssemblyInfo.cs
+C:\Users\nbaha\OneDrive\Masaüstü\kartaca\HotelFinder\HotelFinder.API\obj\Debug\netcoreapp3.1\HotelFinder.API.csproj.CoreCompileInputs.cache
+C:\Users\nbaha\OneDrive\Masaüstü\kartaca\HotelFinder\HotelFinder.API\obj\Debug\netcoreapp3.1\HotelFinder.API.MvcApplicationPartsAssemblyInfo.cache
